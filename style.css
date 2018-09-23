@@ -1,0 +1,52 @@
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display: flex;
+    justify-content: center;
+}
+.aboutme{
+  
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: black;
+    color:gold;
+}
+
+.mid {
+    display: flex;
+    justify-content: center;
+    font-family: 'Playfair Display';
+    background-color: grey;
+    color: black
+}
+.aboutme {
+    display: flex;
+    justify-content: center;
+
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+}
